@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "The Limits of My Language (2015)"
+title:  "Lecture: Unworking; Act of Resistance or Defeat? (2015)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
 ---
 
+
 # Lecture: Unworking; Act of Resistance or Defeat? (2015)
 
-::: {.entry-content}
-[Carel Willink, a Dutch magical-realist painter, wrote an essay in 1950
+Carel Willink, a Dutch magical-realist painter, wrote an essay in 1950
 on the subject that painting found itself in a critical moment. In the
 text, he fulminates against modern, abstract art and criticizes
 abstract-expressionists for not having any traditional métier or
@@ -172,34 +172,3 @@ HONEY: *(Terribly interested)* No!\
 GEORGE: When you get down to bone, you haven't got all the way, yet.
 There's something inside the bone...the marrow...and that's what you
 gotta get at.
-:::
-
-[[Posted on ]{.screen-reader-text}[December 3, 2014January 3,
-2017](http://www.threeowlsonachestofdrawers.net/?p=73)]{.posted-on}[[[Author
-]{.screen-reader-text}[sarah](http://www.threeowlsonachestofdrawers.net/?author=1){.url
-.fn .n}]{.author .vcard}]{.byline}[[Categories
-]{.screen-reader-text}[Uncategorized](http://www.threeowlsonachestofdrawers.net/?cat=1)]{.cat-links}
-
-## Post navigation {#post-navigation .screen-reader-text}
-
-::: {.nav-links}
-::: {.nav-previous}
-[[Previous]{.meta-nav aria-hidden="true"} [Previous
-post:]{.screen-reader-text} [Site of Future Trailer Park
-(2014)]{.post-title}](http://www.threeowlsonachestofdrawers.net/?p=75)
-:::
-
-::: {.nav-next}
-[[Next]{.meta-nav aria-hidden="true"} [Next post:]{.screen-reader-text}
-[From One Thing to Something Else
-(2015)]{.post-title}](http://www.threeowlsonachestofdrawers.net/?p=144)
-:::
-:::
-:::
-:::
-:::
-
-::: {.site-info}
-[Proudly powered by WordPress](https://wordpress.org/)
-:::
-:::

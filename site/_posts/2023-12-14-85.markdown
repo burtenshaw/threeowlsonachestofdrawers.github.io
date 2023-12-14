@@ -1,33 +1,12 @@
-::: {#page .hfeed .site}
-[Skip to content](#content){.skip-link .screen-reader-text}
+---
+layout: post
+title:  "Lecture: On Institutions/the Retreat (2014)"
+date:   2023-12-14 20:49:11 +0100
+categories: jekyll update
+---
 
-::: {#sidebar .sidebar}
-::: {.site-branding}
-[Three Owls on a Chest of
-Drawers](http://www.threeowlsonachestofdrawers.net/)
+# Lecture: On Institutions/the Retreat (2014) 
 
-Menu and widgets
-:::
-
-::: {#secondary .secondary}
-::: {.menu-three-owls-on-a-chest-of-drawersumberto-eco-container}
--   [[Three Owls on a Chest of Drawers/ Umberto
-    Eco](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/03/Eco_Umberto_How_to_Travel_with_a_Salmon_1994-p.165-182.pdf)]{#menu-item-49}
--   [<sarahdemoen%5Bat%5Dprotonmail.com>]{#menu-item-532}
-:::
-:::
-:::
-
-::: {#content .site-content}
-::: {#primary .content-area}
-::: {#main .site-main role="main"}
-::: {.home-link}
-[Home](http://www.threeowlsonachestofdrawers.net/)
-:::
-
-# Lecture: On Institutions/the Retreat (2014) {#lecture-on-institutionsthe-retreat-2014 .entry-title}
-
-::: {.entry-content}
 [This part of this presentation is about Belgium -- based on a youtube
 video and my own experience.]{style="line-height: 1.6471;"}
 
@@ -207,26 +186,3 @@ tried a little. It is annoying when the rhetoric differs from the act.\
 .fn .n}]{.author .vcard}]{.byline}[[Categories
 ]{.screen-reader-text}[Uncategorized](http://www.threeowlsonachestofdrawers.net/?cat=1)]{.cat-links}
 
-## Post navigation {#post-navigation .screen-reader-text}
-
-::: {.nav-links}
-::: {.nav-previous}
-[[Previous]{.meta-nav aria-hidden="true"} [Previous
-post:]{.screen-reader-text} [The Lecture as a Means to Withdraw
-(2014)]{.post-title}](http://www.threeowlsonachestofdrawers.net/?p=81)
-:::
-
-::: {.nav-next}
-[[Next]{.meta-nav aria-hidden="true"} [Next post:]{.screen-reader-text}
-[Claiming of the Concrete Buildings
-(2014)]{.post-title}](http://www.threeowlsonachestofdrawers.net/?p=79)
-:::
-:::
-:::
-:::
-:::
-
-::: {.site-info}
-[Proudly powered by WordPress](https://wordpress.org/)
-:::
-:::
