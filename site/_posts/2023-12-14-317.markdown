@@ -1,0 +1,86 @@
+::: {#page .hfeed .site}
+[Skip to content](#content){.skip-link .screen-reader-text}
+
+::: {#sidebar .sidebar}
+::: {.site-branding}
+[Three Owls on a Chest of
+Drawers](http://www.threeowlsonachestofdrawers.net/)
+
+Menu and widgets
+:::
+
+::: {#secondary .secondary}
+::: {.menu-three-owls-on-a-chest-of-drawersumberto-eco-container}
+-   [[Three Owls on a Chest of Drawers/ Umberto
+    Eco](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/03/Eco_Umberto_How_to_Travel_with_a_Salmon_1994-p.165-182.pdf)]{#menu-item-49}
+-   [<sarahdemoen%5Bat%5Dprotonmail.com>]{#menu-item-532}
+:::
+:::
+:::
+
+::: {#content .site-content}
+::: {#primary .content-area}
+::: {#main .site-main role="main"}
+::: {.home-link}
+[Home](http://www.threeowlsonachestofdrawers.net/)
+:::
+
+# Those quiet men who always stand on piers asked where we were going and when we said, "To the Gulf of California", their eyes melted with longing, they wanted to go so badly (2016) {#those-quiet-men-who-always-stand-on-piers-asked-where-we-were-going-and-when-we-said-to-the-gulf-of-california-their-eyes-melted-with-longing-they-wanted-to-go-so-badly-2016 .entry-title}
+
+::: {.entry-content}
+is a lecture-performance of a script written with Julieta Aguinaco
+during a visit to the Sea of Cortez. This visit was a reiteration of a
+trip writer John Steinbeck and marine biologist Ed Ricketts did in 1940,
+covering the whole peninsula of Baja California to collect sea specimens
+--- documented in the novel The Log From the Sea of Cortez. Ricketts
+collected sea life almost randomly, while Steinbeck's novel presents the
+trip as an adventure, far from the organized and specific methods we
+attribute to science. In this haphazard approach we could recognize a
+similar urge when thinking about art. Furthermore, like Steinbeck and
+Ricketts, we too were uninvited visitors researching a landscape that
+never asked for us. What is in it for the visited? Performed at Nixon
+Art Space, Mexico City.
+
+[![gulf-of-cali](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2016/09/Gulf-of-Cali.jpg){.alignnone
+.wp-image-365 .size-full width="1189" height="792"
+sizes="(max-width: 1189px) 100vw, 1189px"
+srcset="http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2016/09/Gulf-of-Cali.jpg 1189w, http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2016/09/Gulf-of-Cali-300x200.jpg 300w, http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2016/09/Gulf-of-Cali-1024x682.jpg 1024w"}](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2016/09/Gulf-of-Cali.jpg)
+
+[![](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/09/BCS.png){.alignleft
+.wp-image-435 .size-full width="1276" height="641"
+sizes="(max-width: 1276px) 100vw, 1276px"
+srcset="http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/09/BCS.png 1276w, http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/09/BCS-300x151.png 300w, http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/09/BCS-768x386.png 768w, http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/09/BCS-1024x514.png 1024w"}](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/09/BCS.png)
+
+[Script](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/12/Those-Quiet-Men...-script.pdf)
+:::
+
+[[Posted on ]{.screen-reader-text}[December 26, 2015September 23,
+2017](http://www.threeowlsonachestofdrawers.net/?p=317)]{.posted-on}[[[Author
+]{.screen-reader-text}[sarah](http://www.threeowlsonachestofdrawers.net/?author=1){.url
+.fn .n}]{.author .vcard}]{.byline}[[Categories
+]{.screen-reader-text}[Uncategorized](http://www.threeowlsonachestofdrawers.net/?cat=1)]{.cat-links}
+
+## Post navigation {#post-navigation .screen-reader-text}
+
+::: {.nav-links}
+::: {.nav-previous}
+[[Previous]{.meta-nav aria-hidden="true"} [Previous
+post:]{.screen-reader-text} [The Limits of My World
+(2015)]{.post-title}](http://www.threeowlsonachestofdrawers.net/?p=69)
+:::
+
+::: {.nav-next}
+[[Next]{.meta-nav aria-hidden="true"} [Next post:]{.screen-reader-text}
+[To claim not to know what's already been claimed known / Facing the
+earth. Facing information. Facing our lives
+(2017)]{.post-title}](http://www.threeowlsonachestofdrawers.net/?p=439)
+:::
+:::
+:::
+:::
+:::
+
+::: {.site-info}
+[Proudly powered by WordPress](https://wordpress.org/)
+:::
+:::
