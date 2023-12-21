@@ -3,7 +3,7 @@ layout: post
 title: "The Limits of My Language (2015)"
 date: 2023-12-14 20:49:11 +0100
 categories: jekyll update
-image: /uploads/uploads/2016/01/photo-12-1024x784.jpg
+image: /uploads/2016/01/photo-12-1024x784.jpg
 ---
 
 # The Limits of My World (2015)
@@ -26,8 +26,8 @@ This is a conversation between two friends that are trying to make sense out of 
 
 The project stages three parts that deal with the individual's relationship to the world differently, following the three main chapters of *Die Blendung*, a novel by Elias Canetti: A Head Without a World, Headless World and The World in the Head. Each part is an act within what could be experienced as a script for a play. In this script, the art-objects are merely actors within the discourse, for what really matters is the conversation between the two friends as the enduring attempt to discover ways out, possibilities, or new forms. Together. Friendship could offer a renegotiation of the limits of an individual's subjectivity (the heads) and the place/landscape/reality (the worlds).
 
-[Press release](/uploads/uploads/2016/01/The-Limits-of-My-World-Press-Release..pdf)
+[Press release](/uploads/2016/01/The-Limits-of-My-World-Press-Release..pdf)
 
 [Interview in Art & Signature](http://www.artandsignature.com/en/blog/2015/12/28/interview-with-julieta-aguinaco-and-sarah-demoen/)
 
-![Act2](/uploads/uploads/2016/01/photo-12-1024x784.jpg)
+![Act2](/uploads/2016/01/photo-12-1024x784.jpg)

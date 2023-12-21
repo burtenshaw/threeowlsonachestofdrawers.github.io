@@ -34,7 +34,7 @@ kunstwereld."\
 (archief.motleysalon.com/Leven_na_de_academie/2013/07/17/Graduation_Show_Gerrit_Rietveld_Academie\_-\_Graduation_Sp/).
 
 The overview of used text fragments can be found
-[here](/uploads/uploads/2017/02/Fragments_storagespace.pdf).
-![](/uploads/uploads/2017/02/IMG_6169.jpg)
-![](/uploads/uploads/2017/02/IMG_6164.jpg)
-![](/uploads/uploads/2017/02/IMG_6004.jpg)
+[here](/uploads/2017/02/Fragments_storagespace.pdf).
+![](/uploads/2017/02/IMG_6169.jpg)
+![](/uploads/2017/02/IMG_6164.jpg)
+![](/uploads/2017/02/IMG_6004.jpg)

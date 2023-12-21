@@ -3,7 +3,7 @@ layout: post
 title:  "Right Now (2018-19)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
-image: /uploads/uploads/2017/05/beeld_wpzimmer.jpg
+image: /uploads/2017/05/beeld_wpzimmer.jpg
 ---
 
 
@@ -21,17 +21,17 @@ Now* looks at the emancipatory possibilities of the act of claiming,
 through perspectives of feminist speculative fiction and utopian
 literature.
 
-[Script](/uploads/uploads/2018/09/1finalscript_RightNow.pdf) of
+[Script](/uploads/2018/09/1finalscript_RightNow.pdf) of
 the lecture-performance.
 
 Link to the video's: [Three Lectures](https://drive.google.com/open?id=1YBx2S7YPXVCIsk18cFHjvOY5sGeuXYzF)
 and [A Conversation](http://drive.google.com/open?id=1BbxU9lL6DPjhbssPzRapclaGAJOMGXMh)
 adapted from the lecture-performance Right Now.
 
-![](/uploads/uploads/2017/05/beeld_wpzimmer.jpg)
+![](/uploads/2017/05/beeld_wpzimmer.jpg)
 
-![](/uploads/uploads/2017/04/Right-Now-performance_still.jpg)
+![](/uploads/2017/04/Right-Now-performance_still.jpg)
 
-![](/uploads/uploads/2020/09/IMG_1046-e1601457134559.jpg)
+![](/uploads/2020/09/IMG_1046-e1601457134559.jpg)
 
-![](/uploads/uploads/2017/04/19.02.06.ProspectsAndConcepts_0137-web.jpg)
+![](/uploads/2017/04/19.02.06.ProspectsAndConcepts_0137-web.jpg)
