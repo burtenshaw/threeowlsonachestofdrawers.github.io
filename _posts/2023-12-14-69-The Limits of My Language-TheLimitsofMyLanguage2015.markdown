@@ -3,6 +3,7 @@ layout: post
 title: "The Limits of My Language (2015)"
 date: 2023-12-14 20:49:11 +0100
 categories: jekyll update
+image: http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2016/01/photo-12-1024x784.jpg
 ---
 
 # The Limits of My World (2015)

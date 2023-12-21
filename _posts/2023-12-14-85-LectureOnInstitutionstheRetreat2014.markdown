@@ -120,7 +120,8 @@ artist Oscar Tuazon at The New School for Public Engagement. By
 introducing Burt and Holly Davis, he explains their really brutal
 project of hardcore retreat.
 
-<http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/OT-on-BH_1-2-3.m4a>
+TODO: Upload this audio file
+<!-- http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/OT-on-BH_1-2-3.m4a> -->
 
 This part of this presentation is about my work as a research for
 withdrawal from the making of an artwork and the rules of the art
@@ -177,12 +178,3 @@ research the withdrawal as a possibility for change if you don't have
 anything to withdraw from? The final question would be then about my
 presentation. Why did I not try to withdraw from this one? Perhaps I
 tried a little. It is annoying when the rhetoric differs from the act.\
---
-:::
-
-[[Posted on ]{.screen-reader-text}[April 3, 2014September 14,
-2015](http://www.threeowlsonachestofdrawers.net/?p=85)]{.posted-on}[[[Author
-]{.screen-reader-text}[sarah](http://www.threeowlsonachestofdrawers.net/?author=1){.url
-.fn .n}]{.author .vcard}]{.byline}[[Categories
-]{.screen-reader-text}[Uncategorized](http://www.threeowlsonachestofdrawers.net/?cat=1)]{.cat-links}
-

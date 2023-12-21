@@ -3,11 +3,12 @@ layout: post
 title:  "Site of Future Trailer Park (2014)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
+image: http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png
 ---
 
 # Site of Future Trailer Park (2014)
 
-::: {.entry-content}
+
 is collaboratively curated by Julieta Aguinaco, Ben Burtenshaw and
 myself as an exchange on the [Welcome to
 Econotopia](http://dutchartinstitute.eu/page/4450/roaming-research-academy-welcome-to-econotopia-commons-of-the-contemporary)
@@ -20,16 +21,4 @@ are an attempt to relate the issues explored within Welcome to
 Econotopia; now in the context of the land we stood on as a physical and
 social space.
 
-![Screen Shot 2015-09-07 at
-12.26.03](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png){.alignnone
-.wp-image-164 .size-full width="1023" height="680"
-sizes="(max-width: 1023px) 100vw, 1023px"
-srcset="http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png 1023w, http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03-300x199.png 300w"}
-:::
-
-[[Posted on ]{.screen-reader-text}[November 3, 2014January 3,
-2017](http://www.threeowlsonachestofdrawers.net/?p=75)]{.posted-on}[[[Author
-]{.screen-reader-text}[sarah](http://www.threeowlsonachestofdrawers.net/?author=1){.url
-.fn .n}]{.author .vcard}]{.byline}[[Categories
-]{.screen-reader-text}[Uncategorized](http://www.threeowlsonachestofdrawers.net/?cat=1)]{.cat-links}
-
+![Screen Shot 2015-09-07 at12.26.03](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png)
