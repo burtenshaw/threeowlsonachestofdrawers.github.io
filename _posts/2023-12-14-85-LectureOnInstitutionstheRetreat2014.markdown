@@ -69,7 +69,7 @@ retreat. At one point in her presentation she starts talking about her
 three heroes of the retreat. The three great figures of the retreat:
 Maurice Blanchot, Alexander Grothendieck and Thomas Bernhardt.
 
-<http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/2-Catherine-Malabou-1.m4a>
+</uploads/uploads/2015/09/2-Catherine-Malabou-1.m4a>
 
 This part of this lecture-presentation I took from an interview between
 Stephen Wright and theorist Alexander Koch. The latter published in 2011
@@ -121,7 +121,7 @@ introducing Burt and Holly Davis, he explains their really brutal
 project of hardcore retreat.
 
 TODO: Upload this audio file
-<!-- http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/OT-on-BH_1-2-3.m4a> -->
+<!-- /uploads/uploads/2015/09/OT-on-BH_1-2-3.m4a> -->
 
 This part of this presentation is about my work as a research for
 withdrawal from the making of an artwork and the rules of the art

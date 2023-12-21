@@ -3,7 +3,7 @@ layout: post
 title:  "Site of Future Trailer Park (2014)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
-image: http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png
+image: /uploads/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png
 ---
 
 # Site of Future Trailer Park (2014)
@@ -21,4 +21,4 @@ are an attempt to relate the issues explored within Welcome to
 Econotopia; now in the context of the land we stood on as a physical and
 social space.
 
-![Screen Shot 2015-09-07 at12.26.03](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png)
+![Screen Shot 2015-09-07 at12.26.03](/uploads/uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png)

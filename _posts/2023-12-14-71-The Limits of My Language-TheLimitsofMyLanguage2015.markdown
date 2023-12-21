@@ -3,7 +3,7 @@ layout: post
 title:  "The Limits of My Language (2015)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
-image: http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/07/performance-2.jpg
+image: /uploads/uploads/2015/07/performance-2.jpg
 ---
 
 
@@ -48,6 +48,6 @@ things only show the limits of our perception and our knowledge, or
 rather addresses more complex issues and questions related to belonging
 to a community, and the set of relations described by being and knowing?
 
-![performance-2](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/07/performance-2.jpg)
+![performance-2](/uploads/uploads/2015/07/performance-2.jpg)
 
-[SCRIPT](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2016/01/SCRIPT-the-limits-of-my-language.pdf)
+[SCRIPT](/uploads/uploads/2016/01/SCRIPT-the-limits-of-my-language.pdf)

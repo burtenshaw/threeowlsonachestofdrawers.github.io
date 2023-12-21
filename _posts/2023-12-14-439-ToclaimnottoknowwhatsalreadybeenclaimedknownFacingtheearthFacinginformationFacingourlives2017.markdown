@@ -3,7 +3,7 @@ layout: post
 title:  "To claim not to know what's already been claimed known / Facing the earth. Facing information. Facing our lives (2017)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
-image: http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/12/s-arcs17_0900.jpg
+image: /uploads/uploads/2017/12/s-arcs17_0900.jpg
 ---
 
 
@@ -30,7 +30,7 @@ was an opportunity for the visitors to share their comments, critique,
 knowledge and ideas about the Tonegawa. These remarks were incorporated
 into the performance for the next day.
 
-[Link to script (English version)](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2018/09/Final_text_forprinting_2611.pdf)\
-[スクリプト (日本語版)](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2018/09/地球と向き合うこと。情報と向き合うこと。私たちの生活と向き合うこと。.pdf)
+[Link to script (English version)](/uploads/uploads/2018/09/Final_text_forprinting_2611.pdf)\
+[スクリプト (日本語版)](/uploads/uploads/2018/09/地球と向き合うこと。情報と向き合うこと。私たちの生活と向き合うこと。.pdf)
 
-![](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2017/12/s-arcs17_0900.jpg)
+![](/uploads/uploads/2017/12/s-arcs17_0900.jpg)

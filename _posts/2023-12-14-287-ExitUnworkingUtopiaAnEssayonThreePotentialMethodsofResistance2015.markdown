@@ -16,4 +16,4 @@ could be considered to move beyond the linear scope between one extreme
 and another? This could open up possibilities to create new criteria for
 an alternative institutionality in both art and politics. [Exit,
 Unworking & Utopia. An Essay on Three Potential Methods of
-Resistance.](http://www.threeowlsonachestofdrawers.net/wp-content/uploads/2015/12/Exit-Unworking-Utopia1.pdf)]
+Resistance.](/uploads/uploads/2015/12/Exit-Unworking-Utopia1.pdf)]
