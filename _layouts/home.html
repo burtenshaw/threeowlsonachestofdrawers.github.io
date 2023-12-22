@@ -1,30 +1,54 @@
 ---
 layout: default
 ---
+<style>
+  body {
+    background-color: lightgray;
+  }
 
+  .home,
+  .post {
+    border-left: black solid;
+    border-right: solid black 1px;
+    padding: 20px;
+  }
+
+  .site-title {
+    font-size: 22px;
+    font-family: courier, monospace;
+  }
+
+  .post-title {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: courier, monospace;
+  }
+</style>
 <div class="home">
   {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading" style="font-family: 'Courier New', Courier, monospace;">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2> -->
   <ul class="post-list">
     {%- for post in site.posts -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
+        <a class="post-link" href="{{ post.url | relative_url }}" style="color: black;">
           {{ post.title | escape }}
         </a>
       </h3>
+      {% if post.image %}
       <div>
         <img class="post-image" src="{{ post.image }}" alt="post image" width="100%" />
       </div>
-      {%- if site.show_excerpts -%}
+      {% endif %}
+      {%- if post.excerpt -%}
       {{ post.excerpt }}
       {%- endif -%}
     </li>
