@@ -35,7 +35,7 @@ layout: default
   <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2> -->
   <ul class="post-list">
     {%- for post in site.posts -%}
-    <li>
+    <li style="border-top: gray dotted 1px; padding-top: 10px;">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
@@ -44,7 +44,7 @@ layout: default
         </a>
       </h3>
       {% if post.image %}
-      <div>
+      <div style="margin: 10px 0px;">
         <img class="post-image" src="{{ post.image }}" alt="post image" width="100%" />
       </div>
       {% endif %}
