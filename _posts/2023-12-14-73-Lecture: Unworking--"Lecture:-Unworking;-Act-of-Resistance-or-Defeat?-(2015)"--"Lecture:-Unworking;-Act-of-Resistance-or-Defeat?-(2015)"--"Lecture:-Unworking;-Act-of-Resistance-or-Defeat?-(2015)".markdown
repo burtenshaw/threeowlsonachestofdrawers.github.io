@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lecture: Unworking; Act of Resistance or Defeat? (2015)"
-date:   2023-12-14 20:49:11 +0100
+date:   2015-07-14 20:49:11 +0100
 categories: jekyll update
 excerpt: Lecture Unworking; Act of Resistance or Defeat? (2015) Carel Willink a Dutch magical-realist painter, wrote an essay in 1950 on the subject that painting found itself in a critical moment.
 ---

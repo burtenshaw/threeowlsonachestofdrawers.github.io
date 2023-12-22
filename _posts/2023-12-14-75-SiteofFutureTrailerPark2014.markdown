@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Site of Future Trailer Park (2014)"
-date:   2023-12-14 20:49:11 +0100
+date:   2015-07-14 20:49:11 +0100
 categories: jekyll update
 image: /uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png
 excerpt: Site of Future Trailer Park (2014) is collaboratively curated project.

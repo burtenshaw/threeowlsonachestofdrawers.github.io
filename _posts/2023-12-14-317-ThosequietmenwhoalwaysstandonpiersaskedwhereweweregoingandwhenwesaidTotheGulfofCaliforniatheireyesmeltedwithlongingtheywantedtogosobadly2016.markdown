@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Those quiet men who always stand on piers asked where we were going and when we said, \"To the Gulf of California\", their eyes melted with longing, they wanted to go so badly (2016)"
-date:   2023-12-14 20:49:11 +0100
+date:   2016-09-10 20:49:11 +0100
 categories: jekyll update
 image: /uploads/2016/09/Gulf-of-Cali.jpg
 ---

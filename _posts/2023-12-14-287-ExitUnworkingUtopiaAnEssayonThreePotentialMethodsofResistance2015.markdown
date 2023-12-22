@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exit, Unworking & Utopia. An Essay on Three Potential Methods of Resistance (2015)"
-date:   2023-12-14 20:49:11 +0100
+date:   2015-12-14 20:49:11 +0100
 categories: jekyll update
 ---
 

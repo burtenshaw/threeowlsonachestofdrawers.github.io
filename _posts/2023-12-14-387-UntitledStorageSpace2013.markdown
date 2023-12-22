@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Untitled (Storage Space) (2013)"
-date:   2023-12-14 20:49:11 +0100
+date:   2013-12-14 20:49:11 +0100
 categories: jekyll update
+image: /uploads/2017/02/IMG_6169.jpg
 ---
 
 Untitled (Storage Space) intended to create a dialogue between different

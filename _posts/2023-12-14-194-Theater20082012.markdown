@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Theater (2008-2012)"
-date:   2023-12-14 20:49:11 +0100
+date:   2012-01-01 20:49:11 +0100
 categories: jekyll update
+image: /uploads/2016/01/stockholm-1024x409.jpg
 ---
 
 zie!duif is a collective of eight artists that developed from the master

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "To claim not to know what's already been claimed known / Facing the earth. Facing information. Facing our lives (2017)"
-date:   2023-12-14 20:49:11 +0100
+date:   2017-12-14 20:49:11 +0100
 categories: jekyll update
-image: /uploads/2017/12/s-arcs17_0900.jpg
+image: /uploads/2023/12/s-arcs17_0900.jpg
 ---
 
 
@@ -30,4 +30,6 @@ into the performance for the next day.
 [Link to script (English version)](/uploads/2018/09/Final_text_forprinting_2611.pdf)\
 [スクリプト (日本語版)](/uploads/2018/09/地球と向き合うこと。情報と向き合うこと。私たちの生活と向き合うこと。.pdf)
 
-![](/uploads/2017/12/s-arcs17_0900.jpg)
+![Alt text](/uploads/2023/12/s-arcs17_0900.jpg) 
+![Alt text](/uploads/2023/12/s-arcs17_1531.jpg)
+![Alt text](/uploads/2023/12/s-arcs17_2205.jpg)

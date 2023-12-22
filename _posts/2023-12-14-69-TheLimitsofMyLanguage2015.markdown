@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Limits of My Language (2015)"
-date: 2023-12-14 20:49:11 +0100
+date: 2015-07-14 20:49:11 +0100
 categories: jekyll update
 image: /uploads/2016/01/photo-12-1024x784.jpg
 ---
