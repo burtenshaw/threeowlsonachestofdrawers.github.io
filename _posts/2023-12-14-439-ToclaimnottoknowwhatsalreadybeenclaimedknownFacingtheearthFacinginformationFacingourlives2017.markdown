@@ -7,10 +7,7 @@ image: /uploads/2017/12/s-arcs17_0900.jpg
 ---
 
 
-# To claim not to know what's already been claimed known / Facing the earth. Facing information. Facing our lives (2017) 
-
-::: {.entry-content}
-is a project developed together with Julieta Aguinaco at ARCUS Project
+To claim not to know what's already been claimed known / Facing the earth. Facing information. Facing our lives (2017) is a project developed together with Julieta Aguinaco at ARCUS Project
 Residency in Moriya, Japan. How can we represent a place, specifically
 the Tonegawa, without colonising it? is the central question to our
 research into the Tonegawa as an element of the larger Moriya area in

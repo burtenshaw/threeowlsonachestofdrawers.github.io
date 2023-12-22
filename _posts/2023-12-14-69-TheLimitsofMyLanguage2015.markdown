@@ -6,8 +6,6 @@ categories: jekyll update
 image: /uploads/2016/01/photo-12-1024x784.jpg
 ---
 
-# The Limits of My World (2015)
-
 The Limits of My World (2015) is a project together with Julieta Aguinaco. By her gallery CYDONIA, Julieta was commissioned to take part in ABC -- Art Berlin Contemporary. Following The Limits of My Language, the project we wrote and performed together in July, Julieta invited me to collaborate again, but now at an art fair. [On the condition that my name would not show, we ]{.s1}worked jointly under Julieta's name and made the collaboration clear through the work. [I saw it as an opportunity to get actively involved in the interplay between art and capital, without the need to conform to the institutionalization of it.]{.s1}
 
 --

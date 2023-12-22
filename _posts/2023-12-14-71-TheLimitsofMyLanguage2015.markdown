@@ -4,10 +4,9 @@ title:  "The Limits of My Language (2015)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
 image: /uploads/2015/07/performance-2.jpg
+excerpt: The Limits of My Language (2015) is a collaborative project with Julieta Aguinaco initiated by the statement One doesn't find a different paradigm, We make it. Performed at 'Do the Right Thing', Dutch Art Institute, Arnhem.
 ---
 
-
-# The Limits of My Language (2015)
 
 The Limits of My Language (2015) is a collaborative project with Julieta Aguinaco initiated by the
 statement: One doesn't find a different paradigm, We make it. Performed

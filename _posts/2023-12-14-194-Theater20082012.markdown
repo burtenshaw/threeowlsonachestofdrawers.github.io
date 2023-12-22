@@ -5,9 +5,6 @@ date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
 ---
 
-# Theater (2008-2012) 
-
-
 zie!duif is a collective of eight artists that developed from the master
 in Theatre Studies at the University of Antwerp ('06-'07). Twenty-two
 students made the performance 'Een Tipje van de Luier' during an

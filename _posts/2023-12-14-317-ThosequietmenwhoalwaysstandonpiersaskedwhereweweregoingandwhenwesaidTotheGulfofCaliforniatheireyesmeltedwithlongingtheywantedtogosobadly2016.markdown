@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Those quiet men who always stand on piers asked where we were going and when we said, "To the Gulf of California", their eyes melted with longing, they wanted to go so badly (2016)"
+title:  "Those quiet men who always stand on piers asked where we were going and when we said, \"To the Gulf of California\", their eyes melted with longing, they wanted to go so badly (2016)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
 image: /uploads/2016/09/Gulf-of-Cali.jpg
 ---
 
-# Those quiet men who always stand on piers asked where we were going and when we said, "To the Gulf of California", their eyes melted with longing, they wanted to go so badly (2016) 
-
-is a lecture-performance of a script written with Julieta Aguinaco
+**Those quiet men who always stand on piers asked where we were going and when we said, "To the Gulf of California", their eyes melted with longing, they wanted to go so badly (2016)** is a lecture-performance of a script written with Julieta Aguinaco
 during a visit to the Sea of Cortez. This visit was a reiteration of a
 trip writer John Steinbeck and marine biologist Ed Ricketts did in 1940,
 covering the whole peninsula of Baja California to collect sea specimens

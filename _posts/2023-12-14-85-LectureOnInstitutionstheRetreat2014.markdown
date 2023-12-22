@@ -3,12 +3,16 @@ layout: post
 title:  "Lecture: On Institutions/the Retreat (2014)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
+excerpt: "About Belgium, not because I am Belgian, but because of the country's
+possibilities as a place of retreat. Belgium is a federal state with
+communities, regions and language areas. This means that there is a
+federal government that is responsible for the entire country and
+includes: taxation, justice, foreign affairs, social security and
+pensions. There are three communities, based on language. "
 ---
 
-# Lecture: On Institutions/the Retreat (2014) 
-
-[This part of this presentation is about Belgium -- based on a youtube
-video and my own experience.]{style="line-height: 1.6471;"}
+This part of this presentation is about Belgium -- based on a youtube
+video and my own experience.
 
 About Belgium, not because I am Belgian, but because of the country's
 possibilities as a place of retreat. Belgium is a federal state with
@@ -24,22 +28,23 @@ language area and it also exercises authority in the bilingual
 Brussels-Capital area and the German Community, authorized for the
 German language area. Each community has a government and a parliament
 that is responsible for personal matters such as culture, education,
-welfare, health, sports and language.\
-]{style="line-height: 1.6471;"}[The three regions are: the Flemish
+welfare, health, sports and language.
+
+The three regions are: the Flemish
 Region, this coincides with the Dutch language area, the Walloon Region
 covers the French and German language areas and the Brussels-Capital
 Region which is authorized in the bilingual Brussels-Capital
-area. ]{style="line-height: 1.6471;"}[Each region has a government and a
+area. Each region has a government and a
 parliament that is responsible for territorial matters such as the
 environment, urban planning, housing, mobility, infrastructure, economy
 and employment. In addition to the federal government, the communities
 and regions, there are also local governments, like those of the
-provinces and the cities.\
-]{style="line-height: 1.6471;"}[There is a lot of confusion. On our
+provinces and the cities.
+
+There is a lot of confusion. On our
 National Holiday in 2007 the press asked the then Prime Minister to sing
 the Brabançonne -- the Belgian national anthem -- and he sang the
-Marseillaise, the French one.\
-]{style="line-height: 1.6471;"}[I grew up in Flanders which is
+Marseillaise, the French one. I grew up in Flanders which is
 monolingual: we spoke Dutch. I lived under the Flemish community and
 region. Upon moving to Brussels things changed. In this institutional
 framework I had no idea to what part I belonged. I spoke Dutch
@@ -53,13 +58,14 @@ vote for the Flemish regions, even though I lived in Brussels. I did not
 even know the politicians from the Brussels region or the French part.
 My public transportation card was given out by the Brussels Capital
 Region, but I travelled for free because I was a student supported by
-the Flemish region.\
-]{style="line-height: 1.6471;"}[I belonged to all communities and
+the Flemish region.
+
+I belonged to all communities and
 regions and to none. I could have easily vanished for one community,
 while it would think I'd be part of another one. The complexity of this
 action might be more difficult, but I always felt that disappearing in
 this institutional madness was a
-possibility.]{style="line-height: 1.6471;"}
+possibility.
 
 This part of this presentation I took from the French philosopher
 Catherine Malabou's lecture at a program called The Retreat at Documenta
@@ -74,7 +80,8 @@ Maurice Blanchot, Alexander Grothendieck and Thomas Bernhardt.
 This part of this lecture-presentation I took from an interview between
 Stephen Wright and theorist Alexander Koch. The latter published in 2011
 GENERAL STRIKE, a publication that sketches the act of 'dropping out of
-art'.\
+art'.
+
 He answers, you are right to ask to what extent this decision (to
 retreat) has a critical dimension. Remember all those classical gestures
 of refusal in art: empty canvases, closed galleries, silent artists. I
@@ -120,12 +127,13 @@ artist Oscar Tuazon at The New School for Public Engagement. By
 introducing Burt and Holly Davis, he explains their really brutal
 project of hardcore retreat.
 
-TODO: Upload this audio file
+<!-- TODO: Upload this audio file -->
 <!-- /uploads/2015/09/OT-on-BH_1-2-3.m4a> -->
 
 This part of this presentation is about my work as a research for
 withdrawal from the making of an artwork and the rules of the art
-world.\
+world.
+
 One of the most recent works I made was part of the end exam exhibition
 of the school I was graduating from. The graduation is the moment where
 the transition between art school and art world happens, where young
@@ -158,8 +166,8 @@ wanted to be there. That wanted to spend time with the work. People that
 came looking for it.
 
 This part of this presentation is a definition of 'the retreat' that I
-took from the introductory text for the program The Retreat at Documenta
-13.\
+took from the introductory text for the program The Retreat at Documenta 13.
+
 To enter or enact a retreat, is to draw together, in réfuge, seclusion,
 separation, and sharing---not in order to abandon active life with
 others, but to consider ourselves, with others. The choice to retreat,

@@ -5,9 +5,6 @@ date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
 ---
 
-
-# Untitled (Storage Space) (2013)
-
 Untitled (Storage Space) intended to create a dialogue between different
 ideas, suggestions and speculations on 'how to withdraw' from the
 artistic field(s). A soundpiece containing a collection of text

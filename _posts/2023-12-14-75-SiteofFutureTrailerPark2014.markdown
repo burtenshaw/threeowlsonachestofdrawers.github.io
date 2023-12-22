@@ -4,14 +4,11 @@ title:  "Site of Future Trailer Park (2014)"
 date:   2023-12-14 20:49:11 +0100
 categories: jekyll update
 image: /uploads/2015/09/Screen-Shot-2015-09-07-at-12.26.03.png
+excerpt: Site of Future Trailer Park (2014) is collaboratively curated project.
 ---
 
-# Site of Future Trailer Park (2014)
-
-
-is collaboratively curated by Julieta Aguinaco, Ben Burtenshaw and
-myself as an exchange on the [Welcome to
-Econotopia](http://dutchartinstitute.eu/page/4450/roaming-research-academy-welcome-to-econotopia-commons-of-the-contemporary)
+Site of Future Trailer Park (2014) is collaboratively curated by Julieta Aguinaco, Ben Burtenshaw and
+myself as an exchange on the [Welcome to Econotopia](http://dutchartinstitute.eu/page/4450/roaming-research-academy-welcome-to-econotopia-commons-of-the-contemporary)
 project that was initiated at the Dutch Art Institute in 2013 -- curated
 by Renée Ridgway. The group traveled to Mexico and Marfa, Texas as a
 close research of the relationship between the geo-political issues,

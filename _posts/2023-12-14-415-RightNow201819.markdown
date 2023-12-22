@@ -6,10 +6,6 @@ categories: jekyll update
 image: /uploads/2017/05/beeld_wpzimmer.jpg
 ---
 
-
-# Right Now (2018-19) {#right-now-2018-19 .entry-title}
-
-::: {.entry-content}
 The act of claiming has a dual connotation. Though it harks back to a
 history of colonisation and theft, we could also consider the strike as
 a form of claim, when people take back the rights they've been deprived
